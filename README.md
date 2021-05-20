@@ -19,5 +19,8 @@ COULD HAVE:
 3. The app could have the option for registered users to send friend requests to each other.
 
 WON'T HAVE:
-1. The app won't include emojis.
-2. The app won't have support for voice messages or videos.
+1. The app won't include image support.
+2. The app won't have support for voice messages or videos/gifs.
+
+
+Link to the video presentation: https://youtu.be/_qiS95cGtc0
